@@ -1,0 +1,22 @@
+{
+  "name": "Mini Dungeon Quest",
+  "short_name": "DungeonQuest",
+  "description": "A tiny dungeon-themed PWA demo.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e1f33",
+  "theme_color": "#16324f",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "./assets/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
